@@ -1,0 +1,1 @@
+$(parent.document.body).find("div").css({background: "blue"})
