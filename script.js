@@ -7,4 +7,5 @@ var allDivsInTheEditor = editor.find("div")
 
 // Now try to
 // 1. add a button to the topbar
-// 2. change the 
+// 2. change the title above the file list
+// 3. change the borders 
