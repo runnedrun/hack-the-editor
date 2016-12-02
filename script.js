@@ -1,4 +1,5 @@
 var editor = $(parent.document.body)
+var topbar = $(parent.document.body)
 var allDivsInTheEditor = editor.find("div")
 
-// NOw
+// Now try to
