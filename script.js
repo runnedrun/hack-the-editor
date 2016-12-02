@@ -1,7 +1,11 @@
 var editor = $(parent.document.body)
+
+//editor.find("div").css({background:"black"})
 var topbar = $(parent.parent.document.body).find("#topbar")
 
-var allDivsInTheEditor = editor.find("div")
+topbar.app
+//
+//var allDivsInTheEditor = editor.find("div")
 
 
 
